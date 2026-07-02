@@ -160,10 +160,4 @@ flight-delay-analysis/
 
 **Akanksha Sahni**
 
-Submitted to **Society of Business — Students' Technical Council, Open Projects 2025 (Analytics Track)**
-
 ---
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
