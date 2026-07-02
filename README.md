@@ -1,4 +1,4 @@
-# ✈️ Optimizing Air Travel: A Data-Driven Approach to Flight Delay Analysis and Prediction
+# Optimizing Air Travel: A Data-Driven Approach to Flight Delay Analysis and Prediction
 
 > Uncovering the hidden patterns behind flight delays and building predictive models to help airlines act on what they can actually control.
 ---
@@ -138,31 +138,6 @@ flight-delay-analysis/
 
 ---
 
-## Setup & Usage
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/<your-username>/flight-delay-analysis.git
-cd flight-delay-analysis
-```
-
-### 2. Create a virtual environment & install dependencies
-```bash
-python -m venv venv
-source venv/bin/activate      # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-### 3. Add the dataset
-Download `Airline_Delay_Cause.csv` and place it in `data/raw/`.
-
-### 4. Run the notebook
-```bash
-jupyter notebook notebooks/flight_delay_analysis.ipynb
-```
-
----
-
 ## Tech Stack
 
 - **Language:** Python 3.10+
@@ -185,7 +160,6 @@ jupyter notebook notebooks/flight_delay_analysis.ipynb
 ## Author
 
 **Akanksha Sahni**
-📧 Akanksha_s@hs.iitr.ac.in
 
 Submitted to **Society of Business — Students' Technical Council, Open Projects 2025 (Analytics Track)**
 
