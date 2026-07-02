@@ -86,7 +86,6 @@ Data Collection → Preprocessing → EDA → Feature Engineering → Modeling �
 | Random Forest | 100%* | 1.000* |
 | Decision Tree | 100%* | 1.000* |
 
-*\*Near-perfect scores stem from delay-cause counts being present as features, which are strongly deterministic of the `arr_del15` target — see [Limitations](#-limitations--future-work).*
 
 ### Regression — "How long will the delay be (minutes)?"
 
